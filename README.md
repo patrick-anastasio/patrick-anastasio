@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there 👋 , I'm Patrick and I'm an aspiring data scientist
 
-<!--
-**patrick-anastasio/patrick-anastasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+🧰 Toolbox:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50" />
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
