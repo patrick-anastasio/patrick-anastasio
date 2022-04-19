@@ -1,5 +1,7 @@
 ### 👋 I'm Patrick, an aspiring data scientist.
 ---
+> My venture into data science began in 2016 when I was diagnosed with cancer. I obsessed over the data, survival rates, treatment protocol outcomes, trials, papers, and journal articles. I am now proud to count myself among the brave, the strong, and the lucky who survived. Now it's time to thrive. After the subsequent rearranging of life priorities, as is common after such life changing events, I knew I wanted to take my renewed life in a different direction. I knew I wanted to build things with technology. I taught myself how to code with Python, and with a bachelors degree in finance I returned to my love of data analysis. This past year I was presented with the time and opportunity to take it further and attend an intense immersive data science certification program which opened an entire universe to me that I had only dreamt of being a part of.
+
 > Lets connect:
 >> [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn logo" width="75" height="75" />](https://www.linkedin.com/in/patrickanastasio/)
 ---
