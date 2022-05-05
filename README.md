@@ -7,6 +7,7 @@ My Toolbox 🧰 :
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="Postgres logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git logo" width="50" height="50" />
 - SQL
+- Tableau
 - R / R-studio
 - Scikit Learn
 - Airflow
