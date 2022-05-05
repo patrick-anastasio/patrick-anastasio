@@ -1,4 +1,4 @@
-### 👋 I'm Patrick, an aspiring data scientist.
+### 👋 I'm Patrick, an aspiring data analyst / data scientist.
 ---
 > ### Let's connect:
 >> [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn logo" width="75" height="75" />](https://www.linkedin.com/in/patrickanastasio/)
