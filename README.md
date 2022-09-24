@@ -1,7 +1,7 @@
-### 👋 I'm Patrick, an aspiring Data Scientist / Full Stack Developer.
+### 👋 I'm Patrick, an aspiring Developer & Data Scientist.
 
 - 😄 Pronouns: The, She, It
-- 🌱 I’m currently learning: Full Stack Development Path on [Codecademy](https://www.codecademy.com/)
+- 🌱 I’m currently studying: Full Stack Development Path on [Codecademy](https://www.codecademy.com/)
 ---
 > ### Let's connect:
 >> [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn logo" width="75" height="75" />](https://www.linkedin.com/in/patrickanastasio/)
