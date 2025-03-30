@@ -1,4 +1,5 @@
-### 👋 I'm Patrick<!---
+### 👋 I'm Patrick
+<!--
 
 - 😄 Pronouns: The, She, It
 
@@ -16,7 +17,6 @@ My Toolbox 🧰 :
 - Airflow
 - Spark
 
-<!--
 ---
 
 - 🔭 I’m currently working on ...
@@ -28,4 +28,4 @@ My Toolbox 🧰 :
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ---
--->--->
+-->
